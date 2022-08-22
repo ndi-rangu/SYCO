@@ -1,2 +1,2 @@
-# SYCO
+# xSYCOx
 just a training one
